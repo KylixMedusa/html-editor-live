@@ -1,0 +1,19 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  background-color: white;
+}
+
+body.dark {
+  background-color: #272822;
+  header{
+      background-color:#202020;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
